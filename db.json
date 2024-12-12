@@ -1,0 +1,32 @@
+{
+  "notes": [
+    {
+      "id": "1",
+      "title": "a title",
+      "content": "First note!",
+      "tags": [{ "title": "Dev" }],
+      "updated_at": "28 Oct 2024",
+      "archived": false
+    },
+
+    {
+      "id": "2",
+      "title": "a second title",
+      "content": "second note!",
+      "tags": [{ "title": "Dev" }, { "title": "Vue" }],
+      "updated_at": "29 Oct 2024",
+      "archived": false
+    }
+  ],
+
+  "archived": [
+    {
+      "id": "3",
+      "title": "a third title",
+      "content": "third note!",
+      "tags": [{ "title": "Personal" }, { "title": "Fitness" }],
+      "updated_at": "29 Oct 2024",
+      "archived": true
+    }
+  ]
+}
